@@ -200,14 +200,14 @@
 </div><!--/.wrapper-->
 <script type='text/javascript'>
 /* <![CDATA[ */
-var NeveProperties = {"ajaxurl":"https:\/\/spamfighter.callscreen.us\/wp-admin\/admin-ajax.php","nonce":"7e99a12f59"};
+var NeveProperties = {"ajaxurl":"https:\/\/spamfighter.callscreen.us\/wp-admin\/admin-ajax.php","nonce":"73a865db8a"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://spamfighter.callscreen.us/wp-content/themes/neve/assets/js/frontend.js?ver=2.4.3'></script>
 <script type='text/javascript' src='https://spamfighter.callscreen.us/wp-content/plugins/navmenu-addon-for-elementor/assets/js/modernizr.custom.js?ver=1.1.6'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var ElementorMenusFrontendConfig = {"ajaxurl":"https:\/\/spamfighter.callscreen.us\/wp-admin\/admin-ajax.php","nonce":"ab898d887e"};
+var ElementorMenusFrontendConfig = {"ajaxurl":"https:\/\/spamfighter.callscreen.us\/wp-admin\/admin-ajax.php","nonce":"bc18814cc1"};
 var elementorScreenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
 var elementorSecondaryScreenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
 /* ]]> */
