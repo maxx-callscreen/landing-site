@@ -4,8 +4,12 @@
 .elementor-10 .elementor-element.elementor-element-ca8c10f > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-10 .elementor-element.elementor-element-ca8c10f > .elementor-element-populated {margin: -15px -15px -15px -15px;}
 .elementor-10 .elementor-element.elementor-element-6433d86 a.elementor-button, .elementor-10 .elementor-element.elementor-element-6433d86 .elementor-button {font-family: "Quicksand",Quicksand;font-size: 1.5rem;font-weight: bold;text-decoration: none;text-shadow: 0px 0px 0px rgba(0,0,0,.3);background-color: rgba(0,0,0,0);}
-.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-menu {background-color: #00215e;}
-.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-nav-menu .menu-item a {color: #fff;background-color: #00215e;}
-.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-nav-menu .sub-menu .menu-item a {color: #fff;background-color: #00215e;}
+.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-menu {background-color: rgba(0,33,94,0);}
+.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-nav-menu .menu-item a {color: #fff;background-color: rgba(0,33,94,0);}
+.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-nav-menu .sub-menu .menu-item a {color: #fff;background-color: rgba(0,33,94,0);}
 .elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-menu-toggle i.fa.fa-navicon {color: #fff;}
-.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-menu-toggle {background-color: #333;}
+.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-menu-toggle {background-color: rgba(51,51,51,0);}
+.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-nav-menu .menu-item {font-family: "Quicksand",Quicksand;font-size: 1rem;text-decoration: none;}
+@media (max-width:1024px) {.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-navigation ul li, .elementor-navigation ul ul li {text-align: right;}
+	.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-navigation .sub-menu .menu-item a {text-align: right;}}
+@media (max-width:767px) {.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-navigation ul li, .elementor-navigation ul ul li {text-align: left;}}
