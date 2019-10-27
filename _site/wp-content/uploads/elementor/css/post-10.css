@@ -9,7 +9,7 @@
 .elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-nav-menu .sub-menu .menu-item a {color: #fff;background-color: rgba(0,33,94,0);}
 .elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-menu-toggle i.fa.fa-navicon {color: #fff;}
 .elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-menu-toggle {background-color: rgba(51,51,51,0);}
-.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-nav-menu .menu-item {font-family: "Quicksand",Quicksand;font-size: 1rem;text-decoration: none;}
+.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-nav-menu .menu-item {font-family: "Quicksand",Quicksand;font-size: 1.2rem;font-weight: bold;text-decoration: none;}
 @media (max-width:1024px) {.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-navigation ul li, .elementor-navigation ul ul li {text-align: right;}
 	.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-navigation .sub-menu .menu-item a {text-align: right;}}
 @media (max-width:767px) {.elementor-10 .elementor-element.elementor-element-9928cb8 .elementor-navigation ul li, .elementor-navigation ul ul li {text-align: left;}}
