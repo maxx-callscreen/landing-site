@@ -29,7 +29,9 @@
 .editor-styles-wrapper .editor-writing-flow a:hover {color: #0366d6;text-decoration: none;}
 .editor-styles-wrapper .editor-writing-flow .editor-rich-text__tinymce code {background: #d0effb;border-radius: 5px;border: 1px solid #f0f0f0;font-family: monospace;padding: 0;}
 .editor-styles-wrapper .wp-block-verse {font-style: italic;border: unset;}
-.editor-styles-wrapper .wp-block-separator {margin: 20px auto 40px;padding-top: 20px;}
+.editor-styles-wrapper .wp-block-separator {margin: 20px auto 40px;background-color: #8f98a1;border: none;height: 2px;}
+.editor-styles-wrapper .wp-block-separator.is-style-wide {height: 1px;}
+.editor-styles-wrapper .wp-block-separator.is-style-dots {height: auto;}
 .editor-styles-wrapper .wp-block-button .wp-block-button__link {font-size: .8em;font-weight: 600;padding: 8px 12px;transition: all .15s ease-in-out;text-align: center;vertical-align: middle;border: 1px solid transparent;border-radius: 3px;text-transform: uppercase;cursor: pointer;line-height: normal;font-family: inherit;}
 .editor-styles-wrapper .wp-block-button .wp-block-button__link:hover {text-decoration: none;opacity: .9;}
 .editor-styles-wrapper .wp-block-button.is-style-outline .wp-block-button__link {border: 1px solid #676767;background-color: transparent;font-weight: 600;color: #676767;}
