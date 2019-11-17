@@ -1,21 +1,22 @@
-[18/Oct/2019:03:18:17] (ℹ️): WordPress Instance Info:
-[18/Oct/2019:03:18:17] (ℹ️): Home URL : https://spamfighter.callscreen.website
-[18/Oct/2019:03:18:17] (ℹ️): Site URL : https://spamfighter.callscreen.website
-[18/Oct/2019:03:18:17] (ℹ️): WordPress Version : 5.2.4
-[18/Oct/2019:03:18:17] (ℹ️): Onboarding Version : 1.7.6
-[18/Oct/2019:03:18:17] (ℹ️): Multisite : No
-[18/Oct/2019:03:18:17] (ℹ️): Server Info : Apache
-[18/Oct/2019:03:18:17] (ℹ️): PHP Version : 7.0.33
-[18/Oct/2019:03:18:17] (ℹ️): HTTPS : Yes
-[18/Oct/2019:03:18:17] (ℹ️): PHP Max Execution Time : 30
-[18/Oct/2019:03:18:17] (ℹ️): PHP Max Input Vars : 1000
-[18/Oct/2019:03:18:17] (ℹ️): Max Upload Size : 268435456
-[18/Oct/2019:03:18:17] (ℹ️): Plugins:
-[18/Oct/2019:03:18:17] (ℹ️): [PLUGIN] Elementor Addons &amp; Templates - Sizzify Lite : v1.3.2 (ThemeIsle)
-[18/Oct/2019:03:18:17] (ℹ️): [PLUGIN] Elementor : v2.7.4 (Elementor.com)
-[18/Oct/2019:03:18:17] (ℹ️): [PLUGIN] Essential Addons for Elementor : v3.4.0 (WPDeveloper)
-[18/Oct/2019:03:18:17] (ℹ️): [PLUGIN] Elementor - Header, Footer &amp; Blocks : v1.1.4 (Brainstorm Force, Nikhil Chavan)
-[18/Oct/2019:03:18:17] (ℹ️): [PLUGIN] MOJO Marketplace : v1.5 (Mike Hansen)
-[18/Oct/2019:03:18:17] (ℹ️): [PLUGIN] NavMenu Addon For Elementor : v1.1.6 (ThemeIsle)
-[18/Oct/2019:03:18:17] (ℹ️): [PLUGIN] WP2Static : v6.6.6 (Leon Stafford)
-[18/Oct/2019:03:18:17] (ℹ️): [PLUGIN] SVG Support : v2.3.15 (Benbodhi)
+[07/Nov/2019:01:13:20] (ℹ️): WordPress Instance Info:
+[07/Nov/2019:01:13:20] (ℹ️): Home URL : https://spamfighter.callscreen.website
+[07/Nov/2019:01:13:20] (ℹ️): Site URL : https://spamfighter.callscreen.website
+[07/Nov/2019:01:13:20] (ℹ️): WordPress Version : 5.2.4
+[07/Nov/2019:01:13:20] (ℹ️): Onboarding Version : 1.7.9
+[07/Nov/2019:01:13:20] (ℹ️): Multisite : No
+[07/Nov/2019:01:13:20] (ℹ️): Server Info : Apache
+[07/Nov/2019:01:13:20] (ℹ️): PHP Version : 7.0.33
+[07/Nov/2019:01:13:20] (ℹ️): HTTPS : Yes
+[07/Nov/2019:01:13:20] (ℹ️): PHP Max Execution Time : 30
+[07/Nov/2019:01:13:20] (ℹ️): PHP Max Input Vars : 1000
+[07/Nov/2019:01:13:20] (ℹ️): Max Upload Size : 268435456
+[07/Nov/2019:01:13:20] (ℹ️): Plugins:
+[07/Nov/2019:01:13:20] (ℹ️): [PLUGIN] Elementor Addons &amp; Templates - Sizzify Lite : v1.3.2 (ThemeIsle)
+[07/Nov/2019:01:13:20] (ℹ️): [PLUGIN] Elementor : v2.7.5 (Elementor.com)
+[07/Nov/2019:01:13:20] (ℹ️): [PLUGIN] Essential Addons for Elementor : v3.5.1 (WPDeveloper)
+[07/Nov/2019:01:13:20] (ℹ️): [PLUGIN] Elementor - Header, Footer &amp; Blocks : v1.1.4 (Brainstorm Force, Nikhil Chavan)
+[07/Nov/2019:01:13:20] (ℹ️): [PLUGIN] MOJO Marketplace : v1.5 (Mike Hansen)
+[07/Nov/2019:01:13:20] (ℹ️): [PLUGIN] NavMenu Addon For Elementor : v1.1.6 (ThemeIsle)
+[07/Nov/2019:01:13:20] (ℹ️): [PLUGIN] WP2Static : v6.6.6 (Leon Stafford)
+[07/Nov/2019:01:13:20] (ℹ️): [PLUGIN] SVG Support : v2.3.15 (Benbodhi)
+[07/Nov/2019:01:13:20] (ℹ️): [PLUGIN] Yoast SEO : v12.4 (Team Yoast)
