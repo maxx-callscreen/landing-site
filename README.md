@@ -1,5 +1,7 @@
 # landing-site
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/42e3c465-1b2f-4b7d-b95f-21713bea2d99/deploy-status)](https://app.netlify.com/sites/heuristic-colden-442ff0/deploys)
+
 Repository hosting static content for https://callscreen.us.
 Manual modifications to this repository should not be made.
 
