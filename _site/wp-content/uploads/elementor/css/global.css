@@ -81,13 +81,21 @@
 .elementor-widget-eael-countdown .eael-countdown-label {font-family: "Quicksand",Quicksand;font-weight: 400;}
 .elementor-widget-eael-countdown .eael-countdown-finish-message .expiry-title {font-family: "Quicksand",Quicksand;font-weight: 400;}
 .eael-countdown-finish-text {font-family: "Quicksand",Quicksand;font-weight: 400;}
-.elementor-widget-eael-creative-button .eael-creative-button .cretive-button-text {font-family: "Quicksand",Quicksand;font-weight: 600;}
+.elementor-widget-eael-creative-button .eael-creative-button .cretive-button-text, .elementor-widget-eael-creative-button .eael-creative-button--winona::after {font-family: "Quicksand",Quicksand;font-weight: 600;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-header .eael-facebook-feed-item-user .eael-facebook-feed-username {font-family: "Quicksand",Quicksand;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-header .eael-facebook-feed-post-time {font-family: "Quicksand",Quicksand;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-content .eael-facebook-feed-message {font-family: "Quicksand",Quicksand;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-preview-wrap .eael-facebook-feed-url-preview .eael-facebook-feed-url-host {font-family: "Quicksand",Quicksand;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-preview-wrap .eael-facebook-feed-url-preview .eael-facebook-feed-url-title {font-family: "Quicksand",Quicksand;font-weight: 600;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-preview-wrap .eael-facebook-feed-url-preview .eael-facebook-feed-url-description {font-family: "Quicksand",Quicksand;font-weight: 400;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-overlay .eael-facebook-feed-item .eael-facebook-feed-item-overlay, .elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-footer {font-family: "Quicksand",Quicksand;font-weight: 400;}
 .elementor-widget-eael-fancy-text .eael-fancy-text-prefix {font-family: "Quicksand",Quicksand;font-weight: 600;}
 .elementor-widget-eael-fancy-text .eael-fancy-text-strings, .elementor-widget-eael-fancy-text .typed-cursor {font-family: "Quicksand",Quicksand;font-weight: 600;}
 .elementor-widget-eael-fancy-text .eael-fancy-text-suffix {font-family: "Quicksand",Quicksand;font-weight: 600;}
 .elementor-widget-eael-feature-list .connector-type-classic .connector {border-color: #6ec1e4;}
 .elementor-widget-eael-feature-list .connector-type-modern .eael-feature-list-item:before, .elementor-widget-eael-feature-list .connector-type-modern .eael-feature-list-item:after {border-color: #6ec1e4;}
-.elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title {color: #6ec1e4;font-family: "Quicksand",Quicksand;font-weight: 600;}
+.elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title, .elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title > a, .elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title:visited {color: #6ec1e4;}
+.elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title {font-family: "Quicksand",Quicksand;font-weight: 600;}
 .elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-content {color: #7a7a7a;font-family: "Quicksand",Quicksand;font-weight: 400;}
 .elementor-widget-eael-filterable-gallery .fg-caption-head .fg-item-price {font-family: "Quicksand",Quicksand;font-weight: 500;}
 .elementor-widget-eael-filterable-gallery .fg-caption-head .fg-item-ratings {font-family: "Quicksand",Quicksand;font-weight: 500;}
