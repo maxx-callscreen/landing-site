@@ -42,13 +42,14 @@
 	</url>
 	<url>
 		<loc>https://spamfighter.app/how-to-stop-spam-calls/</loc>
-		<lastmod>2019-11-17T04:38:36+00:00</lastmod>
+		<lastmod>2019-12-27T16:19:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/11/icon-120px.png</image:loc>
 			<image:title><![CDATA[icon-120px]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/spamfighter-clear.svg</image:loc>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2019/12/who_is_calling_me.svg</image:loc>
+			<image:caption><![CDATA[Image of a smart phone that is a spam blocker]]></image:caption>
 		</image:image>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg</image:loc>
@@ -57,10 +58,12 @@
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/google-play-badge.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/good-bad-spam.svg</image:loc>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2019/12/who_is_calling_me_now.svg</image:loc>
+			<image:caption><![CDATA[Sombrero wearing cowboy that symbolizes being a spam blocker]]></image:caption>
 		</image:image>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/neighbor-spoofing.svg</image:loc>
+			<image:caption><![CDATA[Image of a row of houses meant to symbolize how to stop phone spoofing]]></image:caption>
 		</image:image>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg</image:loc>
@@ -69,10 +72,12 @@
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/google-play-badge.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/relax.png</image:loc>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2019/12/who_is_calling_me_guru.png</image:loc>
+			<image:caption><![CDATA[Image of a guru-type individual meant to symbolize the peace our spam blocker will bring to customers]]></image:caption>
 		</image:image>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/custom-list-473x1024.png</image:loc>
+			<image:caption><![CDATA[In-app image showing how our app is a leading-edge spam blocker. It will know who is calling so you don't have to guess.]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
