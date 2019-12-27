@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://spamfighter.app/</loc>
-		<lastmod>2019-12-26T19:24:35+00:00</lastmod>
+		<lastmod>2019-12-27T17:34:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/11/icon-120px.png</image:loc>
 			<image:title><![CDATA[icon-120px]]></image:title>
@@ -42,7 +42,7 @@
 	</url>
 	<url>
 		<loc>https://spamfighter.app/how-to-stop-spam-calls/</loc>
-		<lastmod>2019-12-27T16:19:33+00:00</lastmod>
+		<lastmod>2019-12-27T17:32:03+00:00</lastmod>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/11/icon-120px.png</image:loc>
 			<image:title><![CDATA[icon-120px]]></image:title>
