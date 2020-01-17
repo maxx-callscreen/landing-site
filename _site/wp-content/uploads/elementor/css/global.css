@@ -68,6 +68,10 @@
 .elementor-widget-obfx-pricing-table .obfx-pricing-table-button:hover {color: #6ec1e4;background-color: #6ec1e4;}
 .elementor-widget-obfx-services .obfx-service-title {font-family: "Quicksand",Quicksand;font-weight: 600;}
 .elementor-widget-obfx-services .obfx-service-text {color: #7a7a7a;font-family: "Quicksand",Quicksand;font-weight: 400;}
+.elementor-widget-eael-advanced-data-table th textarea, .elementor-widget-eael-advanced-data-table th {font-family: "Quicksand",Quicksand;font-weight: 600;}
+.elementor-widget-eael-advanced-data-table td textarea, .elementor-widget-eael-advanced-data-table td {font-family: "Quicksand",Quicksand;font-weight: 600;}
+.elementor-widget-eael-advanced-data-table .ea-advanced-data-table-search {font-family: "Quicksand",Quicksand;font-weight: 600;}
+.elementor-widget-eael-advanced-data-table .ea-advanced-data-table-pagination a {font-family: "Quicksand",Quicksand;font-weight: 600;}
 .elementor-widget-eael-caldera-form .eael-contact-form-description {font-family: "Quicksand",Quicksand;font-weight: 500;}
 .elementor-widget-eael-contact-form-7 .eael-contact-form-7 .eael-contact-form-7-title {font-family: "Quicksand",Quicksand;font-weight: 500;}
 .elementor-widget-eael-contact-form-7 .eael-contact-form-7 .eael-contact-form-7-description {font-family: "Quicksand",Quicksand;font-weight: 500;}
@@ -125,6 +129,10 @@
 .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field label {font-family: "Quicksand",Quicksand;font-weight: 500;}
 .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]), .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field textarea, .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field select {font-family: "Quicksand",Quicksand;font-weight: 500;}
 .elementor-widget-eael-wpforms .eael-wpforms .wpforms-submit-container .wpforms-submit {font-family: "Quicksand",Quicksand;font-weight: 500;}
+.elementor-widget-retina .hfe-retina-image-container .hfe-retina-img {border-color: #6ec1e4;}
+.elementor-widget-retina .widget-image-caption {color: #7a7a7a;font-family: "Quicksand",Quicksand;font-weight: 400;}
+.elementor-widget-copyright .hfe-copyright-wrapper a, .elementor-widget-copyright .hfe-copyright-wrapper {color: #7a7a7a;}
+.elementor-widget-copyright .hfe-copyright-wrapper, .elementor-widget-copyright .hfe-copyright-wrapper a {font-family: "Quicksand",Quicksand;font-weight: 400;}
 .elementor-widget-elementor-branding .elementor-branding .site-title a {color: #6ec1e4;}
 .elementor-widget-elementor-branding .elementor-branding .site-title a:hover {color: #6ec1e4;}
 .elementor-widget-elementor-branding .elementor-branding .site-title {font-family: "Quicksand",Quicksand;font-weight: 600;}
