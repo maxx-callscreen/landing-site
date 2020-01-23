@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://spamfighter.app/blog/</loc>
-		<lastmod>2020-01-17T20:22:54+00:00</lastmod>
+		<lastmod>2020-01-21T14:08:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://spamfighter.app/2020/01/10/incoming-call-screen/</loc>
-		<lastmod>2020-01-17T20:22:54+00:00</lastmod>
+		<lastmod>2020-01-21T14:08:23+00:00</lastmod>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/relax.png</image:loc>
 			<image:caption><![CDATA[Peaceful man sitting quietly because his incoming call screen is preventing unnecessary robocalls]]></image:caption>
