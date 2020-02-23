@@ -41,6 +41,8 @@
 .fa.fa-check-circle-o {font-family: "Font Awesome 5 Free";font-weight: 400;}
 .fa.fa-check-circle-o:before {content: "";}
 .fa.fa-mail-forward:before {content: "";}
+.fa.fa-expand:before {content: "";}
+.fa.fa-compress:before {content: "";}
 .fa.fa-eye, .fa.fa-eye-slash {font-family: "Font Awesome 5 Free";font-weight: 400;}
 .fa.fa-warning:before {content: "";}
 .fa.fa-calendar:before {content: "";}
@@ -194,11 +196,11 @@
 .fa.fa-bitcoin:before {content: "";}
 .fa.fa-file-text:before {content: "";}
 .fa.fa-sort-alpha-asc:before {content: "";}
-.fa.fa-sort-alpha-desc:before {content: "";}
+.fa.fa-sort-alpha-desc:before {content: "";}
 .fa.fa-sort-amount-asc:before {content: "";}
-.fa.fa-sort-amount-desc:before {content: "";}
+.fa.fa-sort-amount-desc:before {content: "";}
 .fa.fa-sort-numeric-asc:before {content: "";}
-.fa.fa-sort-numeric-desc:before {content: "";}
+.fa.fa-sort-numeric-desc:before {content: "";}
 .fa.fa-xing, .fa.fa-xing-square, .fa.fa-youtube, .fa.fa-youtube-play, .fa.fa-youtube-square {font-family: "Font Awesome 5 Brands";font-weight: 400;}
 .fa.fa-youtube-play:before {content: "";}
 .fa.fa-adn, .fa.fa-bitbucket, .fa.fa-bitbucket-square, .fa.fa-dropbox, .fa.fa-flickr, .fa.fa-instagram, .fa.fa-stack-overflow {font-family: "Font Awesome 5 Brands";font-weight: 400;}
@@ -236,10 +238,9 @@
 .fa.fa-spoon:before {content: "";}
 .fa.fa-behance, .fa.fa-behance-square, .fa.fa-steam, .fa.fa-steam-square {font-family: "Font Awesome 5 Brands";font-weight: 400;}
 .fa.fa-automobile:before {content: "";}
-.fa.fa-cab:before {content: "";}
 .fa.fa-envelope-o {font-family: "Font Awesome 5 Free";font-weight: 400;}
 .fa.fa-envelope-o:before {content: "";}
-.fa.fa-deviantart, .fa.fa-soundcloud {font-family: "Font Awesome 5 Brands";font-weight: 400;}
+.fa.fa-deviantart, .fa.fa-soundcloud, .fa.fa-spotify {font-family: "Font Awesome 5 Brands";font-weight: 400;}
 .fa.fa-file-pdf-o {font-family: "Font Awesome 5 Free";font-weight: 400;}
 .fa.fa-file-pdf-o:before {content: "";}
 .fa.fa-file-word-o {font-family: "Font Awesome 5 Free";font-weight: 400;}
@@ -443,4 +444,5 @@
 .fa.fa-eercast:before {content: "";}
 .fa.fa-snowflake-o {font-family: "Font Awesome 5 Free";font-weight: 400;}
 .fa.fa-snowflake-o:before {content: "";}
-.fa.fa-spotify, .fa.fa-superpowers, .fa.fa-wpexplorer {font-family: "Font Awesome 5 Brands";font-weight: 400;}
+.fa.fa-superpowers, .fa.fa-wpexplorer {font-family: "Font Awesome 5 Brands";font-weight: 400;}
+.fa.fa-cab:before {content: "";}
