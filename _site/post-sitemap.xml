@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://spamfighter.app/blog/</loc>
-		<lastmod>2020-02-12T03:53:14+00:00</lastmod>
+		<lastmod>2020-02-23T02:36:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://spamfighter.app/2020/02/11/the-hope-and-prayer-center-ministry-robocall/</loc>
@@ -19,6 +19,30 @@
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2020/02/tactics_of_hope_and_prayer_ministry-680x1024.png</image:loc>
 			<image:caption><![CDATA[Door to Door salesman that demonstrates how the Hope and Prayer Center Ministry scam worked]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg</image:loc>
+			<image:caption><![CDATA[download for ios]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/google-play-badge.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://spamfighter.app/2020/02/23/why-do-scammers-call-and-hang-up/</loc>
+		<lastmod>2020-02-23T02:36:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2020/02/scammers_that_hang_up_when_you_answer.jpg</image:loc>
+			<image:title><![CDATA[scammers_that_hang_up_when_you_answer]]></image:title>
+			<image:caption><![CDATA[Person on the phone in the dark like scammers that hang up when you answer]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2020/02/phone_calls_that_hang_up_when_you_answer.jpg</image:loc>
+			<image:caption><![CDATA[Phone Calls that hang up when you answer can be the result of phone centers, like what is shown in this image]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2020/02/protect_yourself_from_calls_that_hang_up-1024x546.jpg</image:loc>
+			<image:caption><![CDATA[Image of many question marks, which happens when scammers hang up when you answer]]></image:caption>
 		</image:image>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg</image:loc>
