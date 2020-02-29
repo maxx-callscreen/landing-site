@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://spamfighter.app/blog/</loc>
-		<lastmod>2020-02-23T02:36:23+00:00</lastmod>
+		<lastmod>2020-02-29T04:04:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://spamfighter.app/2020/02/11/the-hope-and-prayer-center-ministry-robocall/</loc>
@@ -29,8 +29,32 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://spamfighter.app/2020/02/29/how-to-block-robocalls-on-iphone/</loc>
+		<lastmod>2020-02-29T04:02:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2020/02/how_to_block_robocalls_on_iphone.jpg</image:loc>
+			<image:title><![CDATA[how_to_block_robocalls_on_iphone]]></image:title>
+			<image:caption><![CDATA[Image of robocalls blocked on iphones]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2020/02/how_to_block_robocalls_on_iphone_who_is_it.jpg</image:loc>
+			<image:caption><![CDATA[Image of animated man standing in front of three unknown doors, much like robocalls on iphone, you don't know who is there]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2020/02/how_to_block_robocalls_on_iphone_unknown.jpg</image:loc>
+			<image:caption><![CDATA[Image of person holding questions marks in front of their face which is very similar to robocalls on iphones]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg</image:loc>
+			<image:caption><![CDATA[download for ios]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://spamfighter.app/wp-content/uploads/2019/10/google-play-badge.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://spamfighter.app/2020/02/23/why-do-scammers-call-and-hang-up/</loc>
-		<lastmod>2020-02-23T02:36:23+00:00</lastmod>
+		<lastmod>2020-02-29T04:04:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://spamfighter.app/wp-content/uploads/2020/02/scammers_that_hang_up_when_you_answer.jpg</image:loc>
 			<image:title><![CDATA[scammers_that_hang_up_when_you_answer]]></image:title>
