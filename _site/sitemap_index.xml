@@ -2,19 +2,25 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://spamfighter.app/post-sitemap.xml</loc>
-		<lastmod>2020-02-29T04:04:50+00:00</lastmod>
+		<lastmod>2020-03-28T19:06:32+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://spamfighter.app/page-sitemap.xml</loc>
 		<lastmod>2020-02-27T22:28:08+00:00</lastmod>
 	</sitemap>
 	<sitemap>
+		<loc>https://spamfighter.app/elementskit_content-sitemap.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://spamfighter.app/elementskit_template-sitemap.xml</loc>
+	</sitemap>
+	<sitemap>
 		<loc>https://spamfighter.app/elementor-hf-sitemap.xml</loc>
-		<lastmod>2020-02-07T23:10:27+00:00</lastmod>
+		<lastmod>2020-03-05T04:11:33+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://spamfighter.app/category-sitemap.xml</loc>
-		<lastmod>2020-02-29T04:04:50+00:00</lastmod>
+		<lastmod>2020-03-28T19:06:32+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://spamfighter.app/author-sitemap.xml</loc>
